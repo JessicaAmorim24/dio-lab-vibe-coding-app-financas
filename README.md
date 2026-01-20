@@ -113,10 +113,148 @@ A IA deverá:
 - Utilizar tom educativo e linguagem acessível, em português
 ```
 
+Interações com o Lovable:
 
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;
+> Crie um aplicativo de Finanças Pessoais com base no seguinte PRD (Documento de Requisitos do Produto):
 
+> O aplicativo não está calculando entradas, como por exemplo o meu salário. E na parte de Relatórios e Metas, ele não iniciou zerado, já iniciou com informação de valores. Posso verificar?
+
+<img width="1915" height="920" alt="image" src="https://github.com/user-attachments/assets/ec43e5e5-ee16-4973-a959-0942786400f4" />
+
+<img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/be2a84ed-4e62-4ef1-b2e8-6e70521936d4" />
+
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/b311fdaa-f035-4095-9c81-31b375d2d50e" />
+
+# Resumo das Funcionalidades do Finny — Assistente Financeiro Conversacional
+
+> Finny é um assistente financeiro conversacional que ajuda usuários a registrar gastos, entender sua vida financeira e acompanhar metas apenas conversando, de forma simples, acessível e sem burocracia.
+
+Finny é um aplicativo de **organização de finanças pessoais baseado em conversação**, criado para ajudar usuários a controlar gastos, visualizar sua situação financeira e acompanhar metas **sem formulários complexos ou planilhas**.
+
+O aplicativo funciona como um **assistente financeiro digital**, permitindo que o usuário registre despesas em linguagem natural e receba feedback imediato, relatórios claros e acompanhamento de objetivos financeiros.
+
+---
+
+## Visão Geral
+
+O Finny foi concebido a partir dos princípios de **Design Universal** e **Vibe Coding**, priorizando:
+- Simplicidade de uso
+- Baixo esforço cognitivo
+- Acessibilidade para usuários iniciantes
+- Interações naturais por meio de chat
+
+A experiência central do produto é conversacional: o usuário fala, o sistema organiza.
+
+---
+
+## Principais Funcionalidades
+
+### Registro de Gastos por Conversa
+O usuário pode registrar gastos digitando mensagens em linguagem natural, como:
+- `Gastei 25 reais no almoço`
+- `Gastei 12 com Uber`
+
+O Finny interpreta automaticamente:
+- Valor do gasto
+- Categoria correspondente
+- Registro no extrato mensal
+
+Após o lançamento, o sistema confirma visualmente a ação.
+
+---
+
+### Classificação Automática
+- As transações são categorizadas automaticamente
+- O usuário não precisa selecionar categorias manualmente
+- As despesas são organizadas no extrato mensal
+
+Essa abordagem reduz atrito e torna o uso acessível para quem está começando a organizar as finanças.
+
+---
+
+### Relatórios Financeiros
+Na aba **Relatórios**, o usuário visualiza:
+- Total gasto no mês
+- Limite mensal configurado
+- Valor disponível
+- Indicador visual de status (ex.: dentro do limite)
+
+Além disso, o aplicativo apresenta:
+- Gráficos de gastos por categoria
+- Extrato de transações
+- Alternância entre visualização gráfica e lista
+
+Os relatórios são pensados para rápida compreensão, sem excesso de informações técnicas.
+
+---
+
+### Metas Financeiras
+Na aba **Metas**, o usuário pode:
+- Criar metas financeiras (ex.: viagem, reserva de emergência)
+- Definir valores-alvo
+- Acompanhar o progresso em percentual
+- Visualizar quanto ainda falta para atingir cada objetivo
+
+As metas incentivam planejamento financeiro de forma simples e contínua.
+
+---
+
+### Agente Financeiro
+O Finny atua como um **agente financeiro conversacional**, oferecendo:
+- Confirmação dos registros realizados
+- Incentivo à continuidade do uso
+- Comunicação clara, educativa e não punitiva
+
+O foco é apoiar a criação de hábitos financeiros, não apenas registrar dados.
+
+---
+
+## Estrutura do MVP
+
+- **Bater papo**: registro conversacional de gastos
+- **Relatórios**: visão geral dos gastos e extrato
+- **Metas**: criação e acompanhamento de objetivos financeiros
+
+---
+
+## Público-Alvo
+
+- Pessoas iniciantes em organização financeira
+- Usuários que buscam praticidade e simplicidade
+- Pessoas que se sentem desconfortáveis com planilhas e sistemas financeiros tradicionais
+
+---
+
+## Proposta de Valor
+
+> Controle suas finanças conversando, não preenchendo formulários.
+
+---
+
+## Status do Projeto
+
+Este projeto representa um **MVP funcional**, gerado com apoio de ferramentas de IA (Lovable), e tem como objetivo:
+- Validar a experiência conversacional
+- Testar adoção por usuários iniciantes
+- Evoluir o produto de forma iterativa
+
+---
+
+## Próximos Passos (Possíveis Evoluções)
+
+- Aprimorar a interpretação de linguagem natural
+- Ajustar microcopy e feedback do agente
+- Incluir alertas e recomendações mais contextuais
+- Evoluir relatórios conforme feedback dos usuários
+
+---
+
+## Conceitos Utilizados
+
+- **PRD (Product Requirements Document)**: definição clara de problema, público e funcionalidades essenciais
+- **Vibe Coding**: desenvolvimento orientado à experiência, com prototipação rápida e iteração contínua
+
+---
 
 
 - Uma breve **reflexão sobre o processo**:
