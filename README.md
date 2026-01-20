@@ -252,7 +252,7 @@ Este projeto representa um **MVP funcional**, gerado com apoio de ferramentas de
 ## Conceitos Utilizados
 
 - **PRD (Product Requirements Document)**: definição clara de problema, público e funcionalidades essenciais
-- **Vibe Coding**: desenvolvimento orientado à experiência, com prototipação rápida e iteração contínua
+- **Vibe Coding**: desenvolvimento orientado à experiência, com prototipação rápida e iteração contínua 
 
 ---
 
