@@ -254,17 +254,13 @@ Este projeto representa um **MVP funcional**, gerado com apoio de ferramentas de
 - **PRD (Product Requirements Document)**: definição clara de problema, público e funcionalidades essenciais
 - **Vibe Coding**: desenvolvimento orientado à experiência, com prototipação rápida e iteração contínua 
 
----
+## Reflexão
 
+### O que funcionou bem?
+O refinamento do PRD prévio feito com o ChatGPT ajudou bastante, pois os créditos do Lovable acabaram com apenas uma única interação.
 
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+### O que não funcionou como o esperado?
+Esperava poder interagir mais vezes com o Lovable, para poder fazer mais alterações e melhorias, entretanto, já foi de grande valia e aprendizado sobre Vibe Coding.
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
-
-## 💬 Conclusão
-
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+### O que aprendeu sobre conversar com IAs?
+Aprendi que é necessário esclarecer e bastante detalhamento sobre o que desejamos que ela execute. Quanto mais detalhes e claro você é, melhor será o resultado e a interação.
