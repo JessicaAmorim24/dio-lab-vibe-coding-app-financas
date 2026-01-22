@@ -119,6 +119,8 @@ Interações com o Lovable:
 
 > O aplicativo não está calculando entradas, como por exemplo o meu salário. E na parte de Relatórios e Metas, ele não iniciou zerado, já iniciou com informação de valores. Posso verificar?
 
+Resultado Final no Lovable: https://breezy-budget-bot.lovable.app
+
 <img width="1915" height="920" alt="image" src="https://github.com/user-attachments/assets/ec43e5e5-ee16-4973-a959-0942786400f4" />
 
 <img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/be2a84ed-4e62-4ef1-b2e8-6e70521936d4" />
